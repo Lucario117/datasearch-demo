@@ -6,9 +6,11 @@ title: DataSearch
 hero_media: welcome.jpg
 widget_id: DataSearch
 design:
-  columns: "1"
+  columns: "2"
   css_style: null
   css_class: null
+  background:
+    image: welcome.jpg
 ---
 <br>
 
