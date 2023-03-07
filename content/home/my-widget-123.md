@@ -2,7 +2,7 @@
 widget: page
 widget_id: About Us
 headless: true
-weight: 10
+weight: 20
 title: About Us
 active: true
 design:
