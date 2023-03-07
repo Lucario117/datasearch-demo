@@ -5,7 +5,16 @@ headless: true
 weight: 40
 title: null
 subtitle: null
+content:
+  user_groups:
+      - Principal Investigators
+      - Researchers
+      - Grad Students
+      - Administration
+      - Visitors
+      - Alumni
 design:
+  view: 5
   columns: "1"
 ---
 
