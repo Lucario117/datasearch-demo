@@ -1,9 +1,9 @@
 ---
-widget: blank
+widget: people
 widget_id: Authors
 headless: true
 weight: 40
-title: null
+title: Members
 subtitle: null
 content:
   user_groups:
