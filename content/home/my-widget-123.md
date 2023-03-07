@@ -1,6 +1,6 @@
 ---
 widget: page
-widget_id: my-widget-123
+widget_id: About Us
 headless: true
 weight: 10
 title: About Us
