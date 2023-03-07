@@ -13,7 +13,7 @@ tags:
 projects:
   - Data Warehouse
 image:
-  filename: https://uom.lk/sites/default/files/center/datasearch/images/High%20level%20architecture%20of%20the%20Framework%20and%20Fusion%20process.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
