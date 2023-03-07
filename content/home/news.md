@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-weight: 30
+weight: 40
 title: Latest News
 subtitle: null
 content:
