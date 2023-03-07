@@ -1,12 +1,20 @@
 ---
-widget: blank
+widget: people
 widget_id: Authors
 headless: true
 weight: 30
-title: null
+title: Members
 subtitle: null
-active: false
+content:
+  user_groups:
+      - Principal Investigators
+      - Researchers
+      - Grad Students
+      - Administration
+      - Visitors
+      - Alumni
 design:
+  view: 5
   columns: "1"
 ---
 
