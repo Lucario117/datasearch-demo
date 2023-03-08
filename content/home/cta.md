@@ -7,10 +7,10 @@ title: Members
 subtitle: null
 content:
   user_groups:
+      - Administration
       - Principal Investigators
       - Researchers
       - Grad Students
-      - Administration
       - Visitors
       - Alumni
 design:
